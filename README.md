@@ -52,9 +52,9 @@ Click WA logo for Support ðŸ‘‡
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@JihadSabeena123/ElsaMowlV21)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Mikhaiel/Jimbrootan)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/J-I-H-A-D/ElsaMwolV2.1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/J-I-H-A-D/ElsaMwol-V2.1)
      </div>
 <br>
 <br >
