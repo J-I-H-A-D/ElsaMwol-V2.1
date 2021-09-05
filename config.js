@@ -1,7 +1,6 @@
-/* 
-Copyright (C) 2020 Yusuf Usta.
-
-re edited by afnan-plk  
+/* Copyright (C) 2020 Yusuf Usta.
+re edited by jihad
+ELSAMWOL V2 
 */
 
 const { Sequelize } = require('sequelize');
@@ -19,14 +18,14 @@ DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBU
 module.exports = {
     VERSION: 'v7.3.6',
     CHANNEL: 'https://t.me/remasterplugin',
-    SESSION: process.env.JIMBROOTAN_SESSION === undefined ? '' : process.env.JIMBROOTAN_SESSION,
+    SESSION: process.env.ElsaMowl_SESSION === undefined ? '' : process.env.ElsaMowl_SESSION,
     ANTİLİNK: process.env.ANTİ_LİNK === undefined ? 'false' : process.env.ANTİ_LİNK,
     AUTOBİO: process.env.AUTO_BİO === undefined ? 'false' : process.env.AUTO_BİO,
     THERI_KICK: process.env.THERI_KICK === undefined ? 'false' : process.env.THERI_KICK,
+    JINN: process.env.ALL_CAPTION === undefined ? '```Made By ElsaMwol 😉```' : process.env.ALL_CAPTION,
     WELCOME: process.env.WELCOME === undefined ? 'pp' : process.env.WELCOME,
     WEL_GIF: process.env.WEL_GIF === undefined ? 'https://i.imgur.com/nErXUGj.mp4' : process.env.WEL_GIF,
     GIF_BYE: process.env.GIF_BYE === undefined ? 'https://i.imgur.com/Z1jCYGN.mp4' : process.env.GIF_BYE,
-    JINN: process.env.ALL_CAPTION === undefined ? '```Made By Jimbroottan 🍃```' : process.env.ALL_CAPTION,
     SONGD: process.env.SONGD === undefined ? 'ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ' : process.env.SONGD,
     SONGU: process.env.SONGU === undefined ? 'ᴜᴘʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ' : process.env.SONGU,
     ALL_LINK_BAN: process.env.ALL_LINK_BAN === undefined ? 'false' : process.env.ALL_LINK_BAN,
@@ -39,7 +38,7 @@ module.exports = {
     BLOCKCHAT: process.env.BLOCK_CHAT === undefined ? false : process.env.BLOCK_CHAT,
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
     MUTEMSG: process.env.MUTE_MESSAGE === undefined ? 'default' : process.env.MUTE_MESSAGE,
-    BOTNME: process.env.BOT_NAME === undefined ? 'JIMBROOTAN' : process.env.BOT_NAME,
+    BOTNME: process.env.BOT_NAME === undefined ? 'ElsaMwol' : process.env.BOT_NAME,
     NOLOG: process.env.NO_LOG === undefined ? 'false' : process.env.NO_LOG,
     FULLEVA: process.env.FULL_EVA === undefined ? 'false' : process.env.FULL_EVA,
     AUTOSTICKER: process.env.STICKER_REPLY === undefined ? false : convertToBool(process.env.STICKER_REPLY),
