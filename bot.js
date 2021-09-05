@@ -12,7 +12,7 @@ const events = require("./events");
 const chalk = require('chalk');
 const config = require('./config');
 const {WAConnection, MessageOptions, MessageType, Mimetype, Presence} = require('@adiwajshing/baileys');
-const {Message, StringSession, Image, Video} = require('./jimbru/');
+const {Message, StringSession, Image, Video} = require('./ElsaMowl/');
 const { DataTypes } = require('sequelize');
 const { getMessage } = require("./plugins/sql/greetings");
 const got = require('got');
@@ -106,11 +106,11 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
 
     conn.on('open', async () => {
         console.log(
-            chalk.green.bold('Login successful!🩸')
+            chalk.green.bold('Login successful!👰')
         );
 
         console.log(
-            chalk.blueBright.italic('🤸 Installing external plugins...')
+            chalk.blueBright.italic('👰 Installing external plugins...')
         );
 
         var plugins = await plugindb.PluginDB.findAll();
@@ -126,7 +126,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.blueBright.italic('🤸  Installing plugins...')
+            chalk.blueBright.italic('👰  Installing plugins...')
         );
 
         fs.readdirSync('./plugins').forEach(plugin => {
@@ -136,7 +136,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('Jimbrootan working! 🧞‍')
+            chalk.green.bold('ElsaMowl working! 👰')
         );
     });
     
@@ -269,8 +269,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '🧞‍♂️______```Jimbrootan V-2.0```_____🧞‍' +
-                                    '\n\n*🧞‍ ' + error + '*\n'
+                                await conn.sendMessage(conn.user.jid, '👰______```ElsaMowl-V2.1```_____👰' +
+                                    '\n\n*👰 ' + error + '*\n'
                                     , MessageType.text);
                             }
                         }
