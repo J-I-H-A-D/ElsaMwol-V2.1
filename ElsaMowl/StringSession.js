@@ -11,7 +11,7 @@ class StringSession {
     }
 
     deCrypt(string = undefined) {
-        if ('JIMBROOTAN_SESSION' in process.env && string === undefined) {
+        if ('ElsaMowl_SESSION' in process.env && string === undefined) {
             string = process.env.STRING_SESSION;
         } else if (string !== undefined) {
             if (fs.existsSync(string)) {
@@ -26,7 +26,7 @@ class StringSession {
     }
 
     createStringSession(dict) {
-        return 'Jimbrootan:::' + Buffer.from(JSON.stringify(dict)).toString('base64');
+        return 'ElsaMowl:::' + Buffer.from(JSON.stringify(dict)).toString('base64');
     }
 }
 
