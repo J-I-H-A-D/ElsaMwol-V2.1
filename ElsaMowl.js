@@ -4,7 +4,7 @@ PINKY V2
 
 const chalk = require('chalk');
 const {WAConnection, MessageOptions, MessageType} = require('@adiwajshing/baileys');
-const {StringSession} = require('./jimbru/');
+const {StringSession} = require('./ElsaMowl/');
 const fs = require('fs');
 
 async function whatsAsena () {
