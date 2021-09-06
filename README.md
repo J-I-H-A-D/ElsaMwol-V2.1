@@ -44,7 +44,7 @@ Click WA logo for Support ðŸ‘‡
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Buyz3sEdhaWB0Rp7gtsKjd)
   <div align="center">
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=J-I-H-A-D&repo=ElsaMwolV2.1&theme=nightowl)](https://github.com/J-I-H-A-D/ElsaMwolV2.1)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=J-I-H-A-D&repo=ElsaMwolV2.1&theme=nightowl)](https://github.com/J-I-H-A-D/ElsaMwol-V2.1)
   </div>
 
 ## Setup
