@@ -1,4 +1,4 @@
-# **JIMBROOTAN V-2.0** TERMS OF USAGE
+# **ElsaMowl V-2.1** TERMS OF USAGE
 
 Last Updated: **GMT-3 22/03/2021**
 
