@@ -3,6 +3,8 @@
 
   <p align="center">
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+ElsaMwolV2.1+WA+Bot+repo;Created+by+Jihad+Ser;This+is+the+Best++Bgm+bot;With+more+features)
+
 <a href="#"><img title="ElsaMwolV2.1" src="https://img.shields.io/badge/-Elsa%20Mowl v2.1-blue?&style=for-the-badge"></a>
 </p>
   <p align="center">
