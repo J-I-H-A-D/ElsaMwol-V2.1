@@ -3,12 +3,12 @@
 
   <p align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+ElsaMwolV2.1+WA+Bot+repo;Created+by+Jihad+Ser;This+is+the+Best++Bgm+bot;With+more+features)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+RCM KITHUV2.1+WA+Bot+repo;Created+by+kithu+Ser;This+is+the+Best++Bgm+bot;With+more+features)
 
-<a href="#"><img title="ElsaMwolV2.1" src="https://img.shields.io/badge/-Elsa%20Mowl v2.1-blue?&style=for-the-badge"></a>
+<a href="#"><img title="kithu.1" src="https://img.shields.io/badge/-RCM%20KITHU v2.1-blue?&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/J-I-H-A-D"><img title="Author" src="https://img.shields.io/badge/Author-JIHAD-Ser/Elsa%20Mowl?color=Blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/K-I-T-H-U"><img title="Author" src="https://img.shields.io/badge/Author-KITHU-Ser/Rcm%20?color=Blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -21,13 +21,13 @@
 ----
 
   <p align="center">
-  <a href="httsp://github.com/J-I-H-A-D/ElsaMwolV2-1">
-    <img src="https://img.shields.io/github/repo-size/J-I-H-A-D/ElsaMwolV2-1?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/K-I-T-H-U/RCMKITHUV2-1">
+    <img src="https://img.shields.io/github/repo-size/K-I-T-H-U/RCMKITHUV2-1?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/J-I-H-A-D/followers"><img title="Followers" src="https://img.shields.io/github/followers/J-I-H-A-D?color=blue&style=flat-square"></a>
-<a href="https://github.com/J-I-H-A-D/ElsaMwolV2-1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/J-I-H-A-D/ElsaMwolV2-1?color=blue&style=flat-square"></a>
-<a href="https://github.com/J-I-H-A-D/ElsaMwolV2-1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/J-I-H-A-D/ElsaMwolV2-1?color=blue&style=flat-square"></a>
-<a href="https://github.com/J-I-H-A-D/ElsaMwolV2-1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/J-I-H-A-D/ElsaMwolV2-1?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/K-I-T-H-U/followers"><img title="Followers" src="https://img.shields.io/github/followers/K-I-T-H-U?color=blue&style=flat-square"></a>
+<a href="https://github.com/K-I-T-H-U/RCMKITHUV2-1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/K-I-T-H-U/RCMKITHUV2-1?color=blue&style=flat-square"></a>
+<a href="https://github.com/K-I-T-H-U/RCMKITHUV2-1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/K-I-T-H-U/RCMKITHUV2-1?color=blue&style=flat-square"></a>
+<a href="https://github.com/K-I-T-H-U/RCMKITHUV2-1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/K-I-T-H-U/RCMKITHUV2-1?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
   
@@ -54,9 +54,9 @@ Click WA logo for Support ðŸ‘‡
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@JihadSabeena123/ElsaMwol)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@JihadSabeena123/RCMKITHU)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jihad3321/ElsaMwol-V2.1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KITHU3321/-V2.1)
      </div>
 <br>
 <br >
