@@ -12,7 +12,7 @@
 </p>
 </div>
 <p align="center">
-   Project created by <a href="https://github.com/J-I-H-A-D">J-I-H-A-D</a> to make it public
+   Project created by <a href="https://github.com/K-I-T-H-U">K-I-T-H-U</a> to make it public
     <br>
        Â© Reserved 
     <br>
@@ -75,7 +75,7 @@ $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
 $ git clone https://github.com/J-I-H-A-D/ElsaMwolV2.1
-$ cd ElsaMwolV2.1
+$ cd RCM KITHUV2.1
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -86,7 +86,7 @@ $ node qr.js
 SETUP
 
 $ git clone https://github.com/J-I-H-A-D/ElsaMwol-V2.1
-$ cd ElsaMwol-V2.1
+$ cd RCM KITHU-V2.1
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -99,13 +99,13 @@ $ node bot.js
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, J-I-H-A-D do not accept responsibility.
+Absolutely, R-C-M-K-I-T-H-U do not accept responsibility.
 By establishing the Userbot, you are deemed to have accepted these responsibilities.
 ```
 
 
 
-Project created by JIHAD to make it public
+Project created by RCM KITHU to make it public
 
 Â© Reserved
 
