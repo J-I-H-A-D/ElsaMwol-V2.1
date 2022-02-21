@@ -56,7 +56,7 @@ Click WA logo for Support ðŸ‘‡
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@JihadSabeena123/ElsaMwol)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jihad3321/ElsaMwol-V2.1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SIGNALMODS/ElsaMwol-V2.1)
      </div>
 <br>
 <br >
